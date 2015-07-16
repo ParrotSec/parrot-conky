@@ -1,0 +1,10 @@
+Package: parrot-conky
+Version: 1.0
+Architecture: all
+Maintainer: Lorenzo EclipseSparl Faletra <eclipse@frozenbox.org>
+Installed-Size: 242
+Depends: conky-all
+Replaces: conky, conky-std, conky-all, conky-cli
+Section: graphic
+Priority: optional
+Description: Conky configurations for Parrot Security OS
