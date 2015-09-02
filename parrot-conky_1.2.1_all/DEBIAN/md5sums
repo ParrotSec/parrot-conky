@@ -1,0 +1,9 @@
+14f4e0058c76f8d085475a82a0dc547a  ./etc/skel/.config/autostart/conky-start.desktop
+04f9ca0de231c9be69d8e8b52a6df847  ./etc/conky/parrot.png
+01e31fa767c413309341393ebe655c8b  ./etc/conky/rings.lua
+2c53cb9df559c10f0f96f80ccf063256  ./etc/conky/conky.conf
+d8462a78c749e1632a8baa7a81723b05  ./DEBIAN/control
+a70d185fe48826ab4d6d8879f837d880  ./DEBIAN/md5sums
+14f4e0058c76f8d085475a82a0dc547a  ./root/.config/autostart/conky-start.desktop
+e39cda373e7704755ba8418375ae01ad  ./usr/share/fonts/truetype/future/future.ttf
+cd7b61bd5bf04e99b32d20a155e455a1  ./usr/share/applications/conky-start.desktop

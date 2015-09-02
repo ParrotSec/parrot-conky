@@ -7,4 +7,4 @@ Exec=sh -c "sleep 20;conky"
 Name=conky
 Comment=Start conky
 Icon=nepomuk
-X-MATE-Autostart-enabled=true
+X-MATE-Autostart-enabled=false
