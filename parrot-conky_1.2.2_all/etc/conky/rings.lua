@@ -90,7 +90,7 @@ rings_settings={
 	},
 	{
 	name="battery_percent",
-	arg="BAT1",
+	arg="BAT0",
 	max=100,
 	xc=175.5,
 	yc=141,
@@ -122,7 +122,7 @@ rings_settings={
 	},
 		{
 	name="cpu",
-	arg="cpu5",
+	arg="cpu2",
 	max=100,
 	xc=40.5,
 	yc=231.5,
@@ -138,7 +138,7 @@ rings_settings={
 	},
 	{
 	name="cpu",
-	arg="cpu2",
+	arg="cpu3",
 	max=100,
 	xc=97.5,
 	yc=231.5,
@@ -154,7 +154,7 @@ rings_settings={
 	},
 		{
 	name="cpu",
-	arg="cpu6",
+	arg="cpu4",
 	max=100,
 	xc=97.5,
 	yc=231.5,
@@ -170,7 +170,7 @@ rings_settings={
 	},
 	{
 	name="cpu",
-	arg="cpu3",
+	arg="cpu1",
 	max=100,
 	xc=153.5,
 	yc=231.5,
@@ -186,7 +186,7 @@ rings_settings={
 	},
 		{
 	name="cpu",
-	arg="cpu7",
+	arg="cpu2",
 	max=100,
 	xc=153.5,
 	yc=231.5,
@@ -202,7 +202,7 @@ rings_settings={
 	},
 	{
 	name="cpu",
-	arg="cpu4",
+	arg="cpu3",
 	max=100,
 	xc=210.5,
 	yc=231.5,
@@ -218,7 +218,7 @@ rings_settings={
 	},
 		{
 	name="cpu",
-	arg="cpu8",
+	arg="cpu4",
 	max=100,
 	xc=210.5,
 	yc=231.5,
